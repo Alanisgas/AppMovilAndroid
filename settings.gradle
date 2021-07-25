@@ -1,0 +1,2 @@
+rootProject.name = "integrador-app-nativa"
+include ':app'
